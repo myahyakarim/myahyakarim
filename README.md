@@ -29,7 +29,7 @@ I design and ship distributed backends: high-scale APIs, async workers, partner 
 ### Links
 
 - LinkedIn: [linkedin.com/in/myahyakarim](https://www.linkedin.com/in/myahyakarim/)
-- Email: *(add the address you want recruiters to use)*
+- Email: *y.kareem0335@gmail.com*
 
 ---
 
