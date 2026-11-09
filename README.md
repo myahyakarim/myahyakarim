@@ -1,6 +1,6 @@
 # Muhammad Yahya Karim
 
-**Senior Software Engineer (Backend / Full-Stack) · aspiring Solutions Architect**
+**Senior Software Engineer — Backend / Full-Stack**
 
 I design and ship distributed backends: high-scale APIs, async workers, partner integrations, and money-safe failure handling — with React ops UIs when the product needs visibility.
 
